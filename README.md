@@ -19,17 +19,21 @@ SYSTEM_STATUS:
   DISCIPLINE: HIGH
   DISTRACTIONS: DISABLED
   PROGRESS: ███████░░░ 78%
-| Skill           | Level      |
-| --------------- | ---------- |
-| JavaScript      | ████████░░ |
-| Backend         | ██████░░░░ |
-| Problem Solving | █████████░ |
-| Consistency     | ██████████ |
-| Focus           | ██████████ |
+| Skill           | Level      |  <br>
+| --------------- | ---------- |  <br>
+| JavaScript      | ████████░░ |  <br>
+| Backend         | ██████░░░░ |  <br>
+| Problem Solving | █████████░ |  <br>
+| Consistency     | ██████████ |  <br>
+| Focus           | ██████████ |  <br>
+
+
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&theme=react-dark&hide_border=true" /> </p>
+
+
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,mysql,linux&theme=dark" /> </p>
-+ Threat Level: RISING
-+ Skill Curve: EXPONENTIAL
-- Excuses: REMOVED
-- Shortcuts: BLOCKED
+
+
+
  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=SYSTEM%20EVOLVING&fontColor=00F7FF&fontSize=22"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> 
