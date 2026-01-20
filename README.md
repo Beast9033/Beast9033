@@ -14,11 +14,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
 SYSTEM_STATUS:
-  CORE: ONLINE
-  MODE: LEARNING
-  DISCIPLINE: HIGH
-  DISTRACTIONS: DISABLED
-  PROGRESS: ███████░░░ 78%
 | Skill           | Level      |  <br>
 | --------------- | ---------- |  <br>
 | JavaScript      | ████████░░ |  <br>
