@@ -26,23 +26,7 @@ SYSTEM_STATUS:
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&theme=react-dark&hide_border=true" /> </p>
 
 
-## 🖥️ SYSTEM TERMINAL
 
-┌─[yug@system]─[~/evolution]
-└──╼ $ init --mode=beast
-
-[ OK ] Neural Core Online
-[ OK ] Skill Engine Loaded
-[ OK ] Focus Protocol Active
-[WARN] Comfort Zone Detected → BYPASSED
-[ OK ] System Scaling...
-
-┌─[STATUS]
-│ POWER      : █████████░ 92%
-│ DISCIPLINE : ██████████ 100%
-│ SPEED      : ████████░░ 80%
-│ MINDSET    : UNBREAKABLE
-└───────────────
 
 ## 📊 LIVE METRICS
 
