@@ -3,7 +3,7 @@
 <h3 align="center">
 🚀 Developer | 🧠 Visionary | 🏗️ Builder of Systems
 </h3>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=I+build+things+that+matter;Code+is+my+weapon;Systems+over+shortcuts;Learning+Never+Stops" />
 </p>
@@ -22,11 +22,13 @@ SYSTEM_STATUS:
 | Consistency     | ██████████ |  <br>
 | Focus           | ██████████ |  <br>
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
+
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&theme=react-dark&hide_border=true" /> </p>
 
 
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
 
 ## 📊 LIVE METRICS
 
