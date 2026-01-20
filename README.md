@@ -45,28 +45,23 @@ SYSTEM_STATUS:
 │ MINDSET    : UNBREAKABLE
 └───────────────
 
-This gives **hardcore hacker / sci-fi OS vibes**.
 
----
 
-# 🛰️ 3️⃣ AUTO-UPDATING STATS + BADGES (ELITE SIGNAL)
+### 🛰️ LIVE STATS (WORKING)
 
-Paste this under a heading like `## 📊 LIVE METRICS`
+⚠️ **DO NOT put this inside ```**
 
 ```md
+## 📊 LIVE METRICS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat&color=6A00FF" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=TOTAL+STARS&style=flat&color=FF00FF" />
+  <img src="https://komarev.com/ghpvc/?username=YUG_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/YUG_USERNAME?label=FOLLOWERS&style=flat&color=6A00FF" />
+  <img src="https://img.shields.io/github/stars/YUG_USERNAME?label=TOTAL+STARS&style=flat&color=FF00FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YUG_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
 </p>
 
 
