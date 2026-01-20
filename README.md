@@ -12,11 +12,6 @@
 
 ## 🧬 ABOUT ME
 
-
-Name        : Yug D Patel
-Status      : Building
-Mission     : Dominate with skill
-Mindset     : Long-term | Systems | Discipline
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
 SYSTEM_STATUS:
   CORE: ONLINE
@@ -37,4 +32,4 @@ SYSTEM_STATUS:
 + Skill Curve: EXPONENTIAL
 - Excuses: REMOVED
 - Shortcuts: BLOCKED
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=SYSTEM%20EVOLVING&fontColor=00F7FF&fontSize=22"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </p> 
+ <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=SYSTEM%20EVOLVING&fontColor=00F7FF&fontSize=22"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> 
