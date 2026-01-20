@@ -28,7 +28,6 @@ SYSTEM_STATUS:
 
 ## 🖥️ SYSTEM TERMINAL
 
-```bash
 ┌─[yug@system]─[~/evolution]
 └──╼ $ init --mode=beast
 
@@ -45,23 +44,16 @@ SYSTEM_STATUS:
 │ MINDSET    : UNBREAKABLE
 └───────────────
 
-
-
-### 🛰️ LIVE STATS (WORKING)
-
-⚠️ **DO NOT put this inside ```**
-
-```md
 ## 📊 LIVE METRICS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YUG_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/YUG_USERNAME?label=FOLLOWERS&style=flat&color=6A00FF" />
-  <img src="https://img.shields.io/github/stars/YUG_USERNAME?label=TOTAL+STARS&style=flat&color=FF00FF" />
+  <img src="https://komarev.com/ghpvc/?username=Beast9033&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/Beast9033?label=FOLLOWERS&style=flat&color=6A00FF" />
+  <img src="https://img.shields.io/github/stars/Beast9033?label=TOTAL+STARS&style=flat&color=FF00FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUG_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beast9033&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
 </p>
 
 
