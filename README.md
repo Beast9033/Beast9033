@@ -1,8 +1,4 @@
-<!-- ===================== -->
-<!--  GITHUB PROFILE README -->
-<!-- ===================== -->
-
-<h1 align="center">⚡ WELCOME TO MY DOMAIN ⚡</h1>
+<h1 align="center">⚡ WELCOME TO YUG'S GITHUB⚡</h1>
 
 <h3 align="center">
 🚀 Developer | 🧠 Visionary | 🏗️ Builder of Systems
