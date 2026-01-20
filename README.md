@@ -26,9 +26,50 @@ SYSTEM_STATUS:
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&theme=react-dark&hide_border=true" /> </p>
 
 
+## 🖥️ SYSTEM TERMINAL
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,mysql,linux&theme=dark" /> </p>
+```bash
+┌─[yug@system]─[~/evolution]
+└──╼ $ init --mode=beast
+
+[ OK ] Neural Core Online
+[ OK ] Skill Engine Loaded
+[ OK ] Focus Protocol Active
+[WARN] Comfort Zone Detected → BYPASSED
+[ OK ] System Scaling...
+
+┌─[STATUS]
+│ POWER      : █████████░ 92%
+│ DISCIPLINE : ██████████ 100%
+│ SPEED      : ████████░░ 80%
+│ MINDSET    : UNBREAKABLE
+└───────────────
+
+This gives **hardcore hacker / sci-fi OS vibes**.
+
+---
+
+# 🛰️ 3️⃣ AUTO-UPDATING STATS + BADGES (ELITE SIGNAL)
+
+Paste this under a heading like `## 📊 LIVE METRICS`
+
+```md
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat&color=6A00FF" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=TOTAL+STARS&style=flat&color=FF00FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
 
 
 
- <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer&text=SYSTEM%20EVOLVING&fontColor=00F7FF&fontSize=22"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> 
+
+
