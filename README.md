@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- ===================== -->
+<!--  GITHUB PROFILE README -->
+<!-- ===================== -->
 
-<!--
-**Beast9033/Beast9033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚡ WELCOME TO MY DOMAIN ⚡</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🚀 Developer | 🧠 Visionary | 🏗️ Builder of Systems
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+things+that+matter;Code+is+my+weapon;Systems+over+shortcuts;Learning+Never+Stops" />
+</p>
+
+---
+
+## 🧬 ABOUT ME
+
+```txt
+Name        : UNKNOWN
+Status      : Building
+Mission     : Dominate with skill, not noise
+Mindset     : Long-term | Systems | Discipline
