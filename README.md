@@ -41,6 +41,29 @@ SYSTEM_STATUS:
 </p>
 
 
+<h2 align="center">🐍 Contribution Graph — Sissa Edition</h2>
 
+<div align="center" style="background: linear-gradient(135deg, #2c3e50, #4a6572); padding: 30px; border-radius: 25px; margin: 20px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beast9033/Beast9033/main/output/snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beast9033/Beast9033/main/output/snake-light.svg#gh-light-mode-only">
+    <img
+      alt="GitHub Contribution Snake — Custom UI"
+      src="https://raw.githubusercontent.com/Beast9033/Beast9033/main/output/snake-dark.svg"
+      width="90%"
+      style="
+        border-radius: 20px;
+        box-shadow: 0 0 25px rgba(0, 255, 255, 0.35), inset 0 0 15px rgba(255, 255, 255, 0.1);
+        filter: drop-shadow(0 0 6px rgba(100, 200, 255, 0.6));
+        margin: 20px 0;
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.02)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </picture>
+  <br/>
+  <em>“Code. Commit. Conquer. — My journey, my style.”</em>
+</div>
 
 
