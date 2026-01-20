@@ -1,7 +1,7 @@
 <h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1>
 
 <h3 align="center">
-🚀  SpaceX Inc Jr.System Developer
+🚀 Currently In SpaceX.Inc AI System Developer
 </h3>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3"/> </p>
 <p align="center">
