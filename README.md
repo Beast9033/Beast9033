@@ -33,7 +33,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Dev;JavaScript+Enjoyer;Always+Debugging)
 
 
-![Streak](https://streak-stats.demolab.com/?user=YOURNAME)
+![Streak](https://streak-stats.demolab.com/?user=Beast9033)
 
 
 
