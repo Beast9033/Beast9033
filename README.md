@@ -29,5 +29,6 @@
   <br/>
   <em>“Code. Commit. Conquer. — My journey, my style.”</em>
 </div>
-https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Dev;JavaScript+Enjoyer;Always+Debugging
-https://streak-stats.demolab.com/?user=Beast9033
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Dev;JavaScript+Enjoyer;Always+Debugging)
+
