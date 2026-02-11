@@ -9,16 +9,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;✨+Welcome+to+my+cosmic+void+✨" alt="Typing SVG"/>
   
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Beast9033&show_icons=true&theme=dracula&bg_color=0d1117&title_color=00E5FF&text_color=C9BAE8&icon_color=00FFFF&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dracula&background=0d1117&stroke=00E5FF&ring=8B00FF&fire=00FFFF&currStreakNum=00FFFF&sideNums=8B00FF" alt="Streak Stats"/>
-  
-  <br><br>
-  
   <!-- Visitor count with cosmic flair -->
-  <img src="https://profile-counter.glitch.me/Beast9033/count.svg" alt="Visitor Count"/>
   <br>
   <sub>👽 beings have warped into this sector since last reset</sub>
   
