@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;✨+Welcome+to+my+cosmic+void+✨" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;+Welcome+to+my+cosmic+Codes+" alt="Typing SVG"/>
   
   <!-- Visitor count with cosmic flair -->
   <br>
