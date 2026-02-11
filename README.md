@@ -6,8 +6,6 @@
 
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=1920" width="100%" alt="Cosmic nebula banner"/>
-  <br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;✨+Welcome+to+my+cosmic+void+✨" alt="Typing SVG"/>
   
