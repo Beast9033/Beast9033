@@ -96,12 +96,12 @@
   ██████╦╝███████╗██║░░██║██████╔╝███████╗██║░░██║██████╔╝
   ╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░
 
-  Profile README for: Shivam Bhadoriya (Dev-Shivam-05)
+  Profile README for: YUG PATEL (Beast9033)
   Theme: NEON VIOLET (Purple-Blue Gradient)
 -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=Shivam%20Bhadoriya&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20And%20%20MERN+Stack%20Developer&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25"
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=YUG%20Patel&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20And%20%20MERN+Stack%20Developer&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25"
     width="100%"
     alt="Header Banner"
   />
@@ -140,7 +140,7 @@
         >
           <!-- Profile Views Counter -->
           <img
-            src="https://komarev.com/ghpvc/?username=Dev-Shivam-05&color=8A2BE2&style=flat-square&label=Profile%20Views"
+            src="https://komarev.com/ghpvc/?username=Beast9033&color=8A2BE2&style=flat-square&label=Profile%20Views"
             alt="Profile Views"
           />
           <br /><strong style="color: #00ffff; font-family: 'Fira Code'"
@@ -159,11 +159,11 @@
         >
           <!-- Followers & Stars -->
           <img
-            src="https://img.shields.io/github/followers/Dev-Shivam-05?style=flat-square&color=FF1493&label=Followers&logo=person-add"
+            src="https://img.shields.io/github/followers/Beast9033?style=flat-square&color=FF1493&label=Followers&logo=person-add"
             alt="Followers"
           />
           <img
-            src="https://img.shields.io/github/stars/Dev-Shivam-05?style=flat-square&color=FF69B4&label=Stars&logo=star"
+            src="https://img.shields.io/github/stars/Beast9033?style=flat-square&color=FF69B4&label=Stars&logo=star"
             alt="Stars"
           />
           <br /><strong style="color: #ffd700; font-family: 'Fira Code'"
@@ -186,7 +186,7 @@
             alt="Open to Work"
           />
           <br />
-          <a href="mailto:shivambhadoriya1605@gmail.com">
+          <a href="mailto:Beast9033@gmail.com">
             <img
               src="https://img.shields.io/badge/Hire%20Me-🚀%20Click%20Here-FF4500?style=flat-square&logo=rocket&logoColor=white"
               alt="Hire Me"
@@ -208,7 +208,7 @@
         >
           <!-- Contribution Streak -->
           <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shivam-05&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
             alt="Streak Stats"
           />
           <br /><strong style="color: #ba55d3; font-family: 'Fira Code'"
@@ -220,7 +220,7 @@
         <td align="center" colspan="4" style="padding: 10px">
           <!-- ✅ REAL WORKING WAKATIME SVG -->
           <img
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=__https_shivu&color=black&theme=dark&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=__https_yug&color=black&theme=dark&hide_border=true"
             alt="Practice Time."
           />
         </td>
@@ -235,22 +235,22 @@
 
   <div align="center">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Shivam-05&theme=github_dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beast9033&theme=github_dark"
       alt="Profile Details"
     />
   </div>
 
   <div align="center">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Shivam-05&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beast9033&theme=dark"
       width="32%"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Shivam-05&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beast9033&theme=dark"
       width="32%"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Shivam-05&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beast9033&theme=dark"
       width="32%"
     />
   </div>
