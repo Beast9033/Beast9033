@@ -728,23 +728,7 @@
 
 ---
 
-  <div align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,4,5,40&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff"
-      width="100%"
-    />
-  </div>
-
-
-<h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1>
-<h3 align="center">
-  🚀 Yug Patel — System Developer @ SpaceX-Inspired Base (Ahmedabad)
-</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;Welcome+to+my+cosmic+Codespace" alt="Typing SVG"/>
-
-  <br><br>
+  
 
   <pre>
        . * . 🌌 . * . .
