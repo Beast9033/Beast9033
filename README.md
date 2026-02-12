@@ -532,11 +532,11 @@
 
 <div align="center" style="background: linear-gradient(135deg, #2c3e50, #4a6572); padding: 30px; border-radius: 25px; margin: 20px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/main/output/snake-dark.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/main/output/snake-light.svg#gh-light-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Beast9033/main/output/snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beast9033/Beast9033/main/output/snake-light.svg#gh-light-mode-only">
     <img
       alt="GitHub Contribution Snake — Custom UI"
-      src="https://raw.githubusercontent.com/Dev-Shivam-05/Dev-Shivam-05/main/output/snake-dark.svg"
+      src="https://raw.githubusercontent.com/Beast9033/Beast9033/main/output/snake-dark.svg"
       width="90%"
       style="
         border-radius: 20px;
