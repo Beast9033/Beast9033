@@ -320,7 +320,7 @@
             <img
               width="400"
               height="400"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=pie&theme=dark&hide_border=true"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beast9033&layout=pie&theme=dark&hide_border=true"
             />
             <br />
             <img
@@ -465,19 +465,19 @@
   <div align="center">
     <img
       width="49%"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Shivam-05&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beast9033&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
       alt="Stats"
     />
     <img
       width="49%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shivam-05&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
       alt="Streaks"
     />
     <!-- Compact stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Shivam-05&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Beast9033&show_icons=true&theme=radical" />
 
 <!-- Top languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivam-05&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beast9033&layout=compact&theme=dark" />
   </div>
 
   <div align="center">x</div>
@@ -487,7 +487,7 @@
     <br />
     <div align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Shivam-05&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
       />
     </div>
   </details>
@@ -499,7 +499,7 @@
 
   <div align="center">
   <!-- Alternative Service -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Beast9033" alt="GitHub Trophies" />
   </div>
   <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dev-Shivam-05&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience" alt="Trophies" />
@@ -559,27 +559,27 @@
   <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
   <div align="center">
-    <a href="https://github.com/Dev-Shivam-05">
+    <a href="https://github.com/Beast9033">
       <img
         src="https://img.shields.io/badge/GitHub-6a11cb?style=for-the-badge&logo=github&logoColor=white"
       />
     </a>
-    <a href="https://www.linkedin.com/in/shivam-bhadoriya-b82792324/">
+    <a href="https://www.linkedin.com/in/yug-patel-b82792324/">
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
     </a>
-    <a href="mailto:shivambhadoriya1605@gmail.com">
+    <a href="mailto:Beast9033@gmail.com">
       <img
         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       />
     </a>
-    <a href="https://www.behance.net/shivambhadoriya2/">
+    <a href="https://www.behance.net/Beast9033/">
       <img
         src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"
       />
     </a>
-    <a href="https://www.instagram.com/__https.shivu/">
+    <a href="https://www.instagram.com/__https.yugg/">
       <img
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       />
@@ -734,3 +734,134 @@
       width="100%"
     />
   </div>
+
+
+<h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1>
+<h3 align="center">
+  🚀 Yug Patel — System Developer @ SpaceX-Inspired Base (Ahmedabad)
+</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Beast9033;Coding+from+the+edge+of+the+universe...;Exploring+code+galaxies+one+commit+at+a+time;Welcome+to+my+cosmic+Codespace" alt="Typing SVG"/>
+
+  <br><br>
+
+  <pre>
+       . * . 🌌 . * . .
+   . . . * . . . * . .
+         . 🌠 . . * . . * .
+    * . . . . . * . .
+  . * . . 🌌 . . . * .
+      Exploring the code cosmos — one beast at a time
+  </pre>
+
+  <br>
+
+  <h3>🪐 Tech Stack I Orbit Around</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,docker,linux,vscode,figma,tailwind,bootstrap,vercel,netlify&theme=dark&perline=8" alt="Tech Stack"/>
+  </p>
+
+  <br>
+
+  <blockquote>
+    "The universe is not only stranger than we imagine, it is stranger than we can imagine."<br>
+    — J.B.S. Haldane (but make it code)
+  </blockquote>
+
+  <br><br>
+
+  <a href="https://github.com/Beast9033?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20repos-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Repositories"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Beast9033">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <br><br>
+
+  <sub>🪐 Last orbit sync: February 2026 | Made with cosmic vibes in Ahmedabad, Gujarat</sub>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&%gradient=0:00F7FF,100:FF00FF"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Yug+Patel+%7C+Full+Stack+Developer;MERN+Stack+%26+DSA+Enthusiast;Code+is+my+weapon;Systems+over+shortcuts" />
+</p>
+
+---
+
+## 📊 LIVE METRICS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Beast9033&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Beast9033?label=FOLLOWERS&style=flat-square&color=6A00FF" />
+  <img src="https://img.shields.io/github/stars/Beast9033?label=TOTAL+STARS&style=flat-square&color=FF00FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2" alt="Contribution Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Beast9033&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug's%20Code%20Intensity" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beast9033/Beast9033/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beast9033/Beast9033/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Beast9033/Beast9033/output/github-snake.svg" width="80%"/>
+  </picture>
+</p>
+
+---
+
+## 🎓 Education & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BSc%20IT-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,docker,tailwind,bootstrap,vercel,netlify,vscode,figma,ps&perline=10&theme=dark" alt="Skills"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Beast9033">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Beast9033">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:Beast9033@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20✨&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff"/>
+</p>
