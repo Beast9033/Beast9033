@@ -313,7 +313,7 @@
             </details>
           </div>
         </td>
-        <td width="50%" valign="top">
+        <td width="100%" valign="top">
           <h3 align="center">🚀 Skill Proficiency</h3>
     
   </div>
