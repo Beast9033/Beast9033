@@ -262,7 +262,7 @@
   <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td  valign="top">
         <h3 align="center">📚 Academic Path</h3>
         <div align="center">
           <img
