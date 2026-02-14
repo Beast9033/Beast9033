@@ -180,7 +180,6 @@
             box-shadow: 0 0 10px #00ff7f;
           "
         >
-          <!-- Availability & Hire Me -->
           <img
             src="https://img.shields.io/badge/Open%20to%20Work-✅%20YES-00FF7F?style=flat-square&logo=briefcase"
             alt="Open to Work"
@@ -324,7 +323,7 @@
             />
             <br />
             <img
-              src="https://leetcard.jacoblin.cool/Dev-Shivam-05?theme=dark&font=Karma&ext=heatmap"
+              src="https://leetcard.jacoblin.cool/Beast9033?theme=dark&font=Karma&ext=heatmap"
               width="400"
             />
           </div>
