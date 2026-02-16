@@ -316,30 +316,6 @@
 
 ---
 
-  <div align="center">
-    <h3>🎯 Next Achievements to Unlock</h3>
-    <!-- <p align="center">
-  <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2025-6a11cb?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/100_Days_Streak-In_Progress-2575fc?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=plastic&logo=github&logoColor=white" />
-</p> -->
-    <img
-      src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-2026-6a11cb?style=for-the-badge&logo=github"
-    />
-    <img
-      src="https://img.shields.io/badge/300_Days_Streak-In_Progress-2575fc?style=for-the-badge&logo=github"
-    />
-    <img
-      src="https://img.shields.io/badge/Pull_Shark-Coming_Soon-8A2387?style=for-the-badge&logo=github"
-    />
-  </div>
-
----
-
----
-
-  <br>
-
   <h3>🪐 Tech Stack I Orbit Around</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,docker,linux,vscode,figma,tailwind,bootstrap,vercel,netlify&theme=dark&perline=8" alt="Tech Stack"/>
@@ -364,7 +340,7 @@
 
   <br><br>
 
-  <sub>🪐 Last orbit sync: February 2026 | Made with cosmic vibes in Ahmedabad, Gujarat</sub>
+  <sub>🪐 Last orbit sync: February 2026 | Made with cosmic vibes in Hawthorne, CA 90250, United States</sub>
 </div>
 
 <p align="center">
