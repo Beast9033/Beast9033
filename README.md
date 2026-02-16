@@ -75,10 +75,10 @@
           "
         >
           <!-- Followers & Stars -->
-          <img
-            src="https://img.shields.io/github/followers/Beast9033?style=flat-square&color=FF1493&label=Followers&logo=person-add"
-            alt="Followers"
-          />
+          <img 
+  src="https://img.shields.io/github/followers/Beast9033?color=FF1493&style=flat-square&logo=person-add" 
+  alt="Followers" 
+/>
           <img
             src="https://img.shields.io/github/stars/Beast9033?style=flat-square&color=FF69B4&label=Stars&logo=star"
             alt="Stars"
