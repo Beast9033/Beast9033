@@ -174,7 +174,7 @@
 ---
 
   <!-- Completely Redesigned Education Section -->
-  <h2 align="center">🎓 Education & Skills Journey</h2>
+<!--  <h2 align="center">🎓 Education & Skills Journey</h2>
 
   <div align="center">
   <table width="100%">
@@ -233,9 +233,9 @@
         <td width="100%" valign="top">
           <h3 align="center">🚀 Skill Proficiency</h3>
     
-  </div>
+  </div>  
+-->
 
----
 
   <!-- Animated Technology Stack -->
   <h2 align="center">🛠️ Technology Arsenal</h2>
