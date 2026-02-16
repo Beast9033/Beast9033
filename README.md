@@ -132,15 +132,6 @@
           >
         </td>
       </tr>
-      <tr>
-        <td align="center" colspan="4" style="padding: 10px">
-          <!-- ✅ REAL WORKING WAKATIME SVG -->
-          <img
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=__https_yug&color=black&theme=dark&hide_border=true"
-            alt="Practice Time."
-          />
-        </td>
-      </tr>
     </table>
   </div>
 
