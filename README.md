@@ -400,13 +400,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beast9033&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -421,7 +414,7 @@
 ## 🎓 Education & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20IT-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/BCA10%-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
 </p>
 
 <p align="center">
