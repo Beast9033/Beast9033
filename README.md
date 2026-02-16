@@ -414,7 +414,7 @@
 ## 🎓 Education & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA10%-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/BCA-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
 </p>
 
 <p align="center">
