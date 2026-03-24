@@ -1,7 +1,7 @@
 <h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1>
 
 <h3 align="center">
-🚀 Currently In SpaceX.Inc Base System Developer 
+⚡Currently In SpaceX.Inc Base System Developer⚡ 
 </h3>
 
 <!-- New readme File  -->
