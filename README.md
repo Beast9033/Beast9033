@@ -125,7 +125,7 @@
             src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
             alt="Streak Stats"
           />
-          <br />10<strong style="color: #ba55d3; font-family: 'Fira Code'"
+          <br /><strong style="color: #ba55d3; font-family: 'Fira Code'"
             >🔥 Contribution Streak</strong
           >
         </td>
