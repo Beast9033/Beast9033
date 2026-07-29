@@ -314,7 +314,7 @@
 
 ---
 
-  <h3>🪐 Tech Stack I Orbit Around</h3>
+<!--  <h3>🪐 Tech Stack I Orbit Around</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,docker,linux,vscode,figma,tailwind,bootstrap,vercel,netlify&theme=dark&perline=8" alt="Tech Stack"/>
   </p>
@@ -336,7 +336,7 @@
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 
-  <br><br>
+  <br><br> -->
 
   <sub>🪐 Last orbit sync: February 2026 | Made with cosmic vibes in Hawthorne, CA 90250, United States</sub>
 </div>
