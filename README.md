@@ -383,7 +383,7 @@
 </p>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,mongodb,mysql,python,java,php,laravel,c,cpp,git,docker,linux,tailwind,bootstrap,vercel,netlify,vscode,figma,postman,firebase,npm,ps&perline=10&theme=dark" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,mongodb,mysql,python,java,php,laravel,c,cpp,git,docker,linux,tailwind,bootstrap,vercel,netlify,vscode,figma,postman,firebase,supabase,prisma,graphql,redux,npm,yarn,aws,azure,discord,ps&perline=10&theme=dark" alt="Skills"/>
 </p>
 
 ---
