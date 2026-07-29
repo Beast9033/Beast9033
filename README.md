@@ -58,7 +58,7 @@
             src="https://komarev.com/ghpvc/?username=Beast9033&color=8A2BE2&style=flat-square&label=Profile%20Views"
             alt="Profile Views"
           />
-          <br /><strong style="color: #00ffff; font-family: 'Fira Code'"
+          <br /><strong style="color: #00ffff; font-family: 'Fira Code'" 
             >🚀 Live Counter</strong
           >
         </td>
