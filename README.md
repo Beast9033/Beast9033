@@ -11,7 +11,7 @@
   ██████╦╝███████╗██║░░██║██████╔╝███████╗██║░░██║██████╔╝
   ╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░
 
-  Profile README for: YUG PATEL (Beast9033)
+  Profile README for: YUG PATEL (YugPatelStarDev)
   Theme: NEON VIOLET (Purple-Blue Gradient)
 -->
 <div align="center">
@@ -55,7 +55,7 @@
         >
           <!-- Profile Views Counter -->
           <img
-            src="https://komarev.com/ghpvc/?username=Beast9033&color=8A2BE2&style=flat-square&label=Profile%20Views"
+            src="https://komarev.com/ghpvc/?username=YugPatelStarDev&color=8A2BE2&style=flat-square&label=Profile%20Views"
             alt="Profile Views"
           />
           <br /><strong style="color: #00ffff; font-family: 'Fira Code'" 
@@ -74,11 +74,11 @@
         >
           <!-- Followers & Stars -->
           <img 
-  src="https://img.shields.io/github/followers/Beast9033?color=FF1493&style=flat-square&logo=person-add" 
+  src="https://img.shields.io/github/followers/YugPatelStarDev?color=FF1493&style=flat-square&logo=person-add" 
   alt="Followers"    
 />
           <img
-            src="https://img.shields.io/github/stars/Beast9033?style=flat-square&color=FF69B4&label=Stars&logo=star"
+            src="https://img.shields.io/github/stars/YugPatelStarDev?style=flat-square&color=FF69B4&label=Stars&logo=star"
             alt="Stars"
           />
           <br /><strong style="color: #ffd700; font-family: 'Fira Code'"
@@ -100,7 +100,7 @@
             alt="Open to Work"
           />
           <br />
-          <a href="mailto:Beast9033@gmail.com">
+          <a href="mailto:YugPatelStarDev@gmail.com">
             <img
               src="https://img.shields.io/badge/Hire%20Me-🚀%20Click%20Here-FF4500?style=flat-square&logo=rocket&logoColor=white"
               alt="Hire Me"
@@ -122,7 +122,7 @@
         >
           <!-- Contribution Streak -->
           <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
             alt="Streak Stats"
           />
           <br /><strong style="color: #ba55d3; font-family: 'Fira Code'"
@@ -140,22 +140,22 @@
 
   <div align="center">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beast9033&theme=github_dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YugPatelStarDev&theme=github_dark"
       alt="Profile Details"
     />
   </div>
 
   <div align="center">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beast9033&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YugPatelStarDev&theme=dark"
       width="32%"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beast9033&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YugPatelStarDev&theme=dark"
       width="32%"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beast9033&theme=dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YugPatelStarDev&theme=dark"
       width="32%"
     />
   </div> -->
@@ -292,12 +292,12 @@
   <div align="center">
     <img
       width="49%"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beast9033&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
       alt="Stats"
     />
     <img
       width="49%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
       alt="Streaks"
     />
   </div>
@@ -307,7 +307,7 @@
     <br />
     <div align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
       />
     </div>
   </details>
@@ -328,11 +328,11 @@
 
   <br><br>
 
-  <a href="https://github.com/Beast9033?tab=repositories">
+  <a href="https://github.com/YugPatelStarDev?tab=repositories">
     <img src="https://img.shields.io/badge/Check%20out%20my%20repos-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Repositories"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/Beast9033">
+  <a href="https://x.com/YugPatelStarDev">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 
@@ -354,13 +354,13 @@
 ## 📊 LIVE METRICS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Beast9033&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Beast9033?label=FOLLOWERS&style=flat-square&color=6A00FF" />
-  <img src="https://img.shields.io/github/stars/Beast9033?label=TOTAL+STARS&style=flat-square&color=FF00FF" />
+  <img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=flat-square&color=6A00FF" />
+  <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=TOTAL+STARS&style=flat-square&color=FF00FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beast9033&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2" alt="Contribution Streak"/>
 </p>
 
 ---
@@ -369,7 +369,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beast9033&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug's%20Code%20Intensity" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug's%20Code%20Intensity" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -391,13 +391,13 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Beast9033">
+  <a href="https://github.com/YugPatelStarDev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://x.com/Beast9033">
+  <a href="https://x.com/YugPatelStarDev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:Beast9033@gmail.com">
+  <a href="mailto:YugPatelStarDev@gmail.com">
 
 
 
